@@ -6,10 +6,11 @@ Sempre aberto a novos aprendizados, desafios e oportunidades de colaboração.
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoSantos32&show_icons=true&theme=midnight-purple&&hide=stars"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoSantos32&show_icons=true&theme=midnight-purple&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoSantos32&layout=compact&theme=midnight-purple"/>
 </div>
+
 
 ### 🛠️ Principais Tecnologias e Ferramentas
 
@@ -20,8 +21,6 @@ Sempre aberto a novos aprendizados, desafios e oportunidades de colaboração.
 - **Versionamento:** Git & GitHub
 
 ---
-
-![Snake animation]()
 
 ### 📫 Contato
 
