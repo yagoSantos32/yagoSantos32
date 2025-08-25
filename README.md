@@ -5,12 +5,8 @@ Atualmente, estou focado em aprimorar minhas habilidades no back-end, explorando
 Sempre aberto a novos aprendizados, desafios e oportunidades de colaboração.
 
 ---
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoSantos32&show_icons=true&theme=midnight-purple&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoSantos32&layout=compact&theme=midnight-purple"/>
-</div>
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagoSantos32&show_icons=true&theme=midnight-purple&hide=stars&height=180&rand=1)](https://github.com/yagoSantos32)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoSantos32&layout=compact&theme=midnight-purple&height=180&rand=1)](https://github.com/yagoSantos32)
 
 ### 🛠️ Principais Tecnologias e Ferramentas
 
