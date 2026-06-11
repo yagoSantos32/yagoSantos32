@@ -38,6 +38,3 @@ Sempre aberto a novos aprendizados, desafios e oportunidades de colaboração.
 Se quiser conversar, colaborar ou tiver alguma dúvida, estou à disposição:  
 📧 yagosantos0806@gmail.com
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=9F00FF&height=100&section=footer)
-
----
-
